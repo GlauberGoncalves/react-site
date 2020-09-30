@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={'https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg'} className="App-logo" alt="logo" />
         <p>
-          Saldações Rubrunegras
+          Saudações Rubrunegras
         </p>
         <a
           className="App-link"
