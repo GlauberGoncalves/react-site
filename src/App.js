@@ -1,0 +1,25 @@
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <img src={'https://upload.wikimedia.org/wikipedia/commons/2/2e/Flamengo_braz_logo.svg'} className="App-logo" alt="logo" />
+        <p>
+          Saldações Rubrunegras
+        </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Glauber Gonçalves
+        </a>
+      </header>
+    </div>
+  );
+}
+
+export default App;
